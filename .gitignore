@@ -1,0 +1,22 @@
+# Ignore build files and IDE settings
+target/
+*.class
+*.jar
+*.war
+*.log
+
+# Eclipse / STS
+*.classpath
+*.project
+*.settings/
+.idea/
+*.iml
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+*.swo
+
+.metadata/
